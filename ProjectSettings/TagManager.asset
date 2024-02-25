@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - NPC
+  - DoorX
+  - DoorY
+  - DoorZ
+  - WaitingScreen
+  - EndPlatform
+  - Heart
+  - p1 cam
+  - p2 cam
+  - ring
+  - Score
+  - level2door
+  - openlevel2
+  - openlevel3
+  - level3door
+  - level1gate
+  - level2gate
+  - level3gate
+  - finallevel
+  - Local
+  - player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Bullet
+  - Player
+  - P1 Camera
+  - P2 Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
